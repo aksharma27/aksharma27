@@ -1,6 +1,4 @@
 ### HI, I am Abhishek! 👋
-
-[![@aksharma27's Holopin board](https://holopin.io/api/user/board?user=aksharma27)](https://holopin.io/@aksharma27)
 [![@aksharma27's Holopin board](https://holopin.io/api/user/board?user=aksharma27)](https://holopin.io/@aksharma27)
 
 <h3 align="center">A passionate programmer</h3>
