@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharma27&" alt="aksharma27" /></p>
 
 
-### snake eating my contribution
+### My Contributions
 
 ![snake gif](https://github.com/aksharma27/aksharma27/blob/output/github-contribution-grid-snake.gif)
 
