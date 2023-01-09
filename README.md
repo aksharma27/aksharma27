@@ -3,6 +3,8 @@
 
 <h3 align="center">A passionate programmer</h3>
 
+<a href="https://quine.sh/profile/aksharma27"><img src="https://stats.quine.sh/aksharma27/github" alt="aksharma27's GitHub stats" width="840px"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="aksharma27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharma27" alt="aksharma27" /></a> </p>
