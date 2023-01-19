@@ -46,11 +46,11 @@
   media="(prefers-color-scheme: dark)"
 />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=aksharma27&show_icons=true&them=dark" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=aksharma27&show_icons=true&them=dark" />
 </picture>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharma27&show_icons=true&locale=en" alt="aksharma27" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharma27&show_icons=true&locale=en" alt="aksharma27" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharma27&thme=dark" alt="aksharma27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharma27&theme=dark" alt="aksharma27" /></p>
 
 
 ### My Contributions
