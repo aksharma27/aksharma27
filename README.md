@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **[Twitter](https://twitter.com/aksharma27mjm), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/abhishekiter21/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
 
-- ⚡ Fun fact **I am very lazy**
+- ⚡ Fun fact **I am lazy, so I write RESTful apis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
