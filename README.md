@@ -1,15 +1,15 @@
 ### HI, I am Abhishek! 👋
-[![@aksharma27's Holopin board](https://holopin.io/api/user/board?user=aksharma27)](https://holopin.io/@aksharma27)
+[![@warlock45's Holopin board](https://holopin.io/api/user/board?user=aksharma27)](https://holopin.io/@warlock45)
 
 <h3 align="center">A passionate programmer</h3>
 
-<a href="https://quine.sh/profile/aksharma27"><img src="https://stats.quine.sh/aksharma27/github" alt="aksharma27's GitHub stats" width="840px"></a>
+<a href="https://quine.sh/profile/aksharma27"><img src="https://stats.quine.sh/aksharma27/warlock45" alt="aksharma27's GitHub stats" width="840px"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="aksharma27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharma27" alt="aksharma27" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharma27" alt="warlock45" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aksharma27mjm" target="blank"><img src="https://img.shields.io/twitter/follow/aksharma27mjm?logo=twitter&style=for-the-badge" alt="aksharma27mjm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/warlock_9" target="blank"><img src="https://img.shields.io/twitter/follow/aksharma27mjm?logo=twitter&style=for-the-badge" alt="aksharma27mjm" /></a> </p>
 
 - 🔭 I’m currently working on **MERN stack, ReactNative**
 
@@ -19,13 +19,13 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aksharma27](https://github.com/aksharma27)
+- 👨‍💻 All of my projects are available at [https://github.com/aksharma27](https://github.com/warlock45)
 
-- 📝 I regularly write articles on [https://twitter.com/aksharma27mjm](https://twitter.com/aksharma27mjm)
+- 📝 I regularly write articles on [https://twitter.com/aksharma27mjm](https://twitter.com/war_lock9)
 
 - 💬 Ask me about **WEB3, React, algorithms**
 
-- 📫 How to reach me **[Twitter](https://twitter.com/aksharma27mjm), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/abhishekiter21/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
+- 📫 How to reach me **[Twitter](https://twitter.com/war_lock9), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/abhishekiter21/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
 
 - ⚡ Fun fact **I am lazy, so I write RESTful apis**
 
@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/abhishek sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title = "Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/me_aksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title = "me_aksharma" height="30" width="40" /></a>
 <a href="https://hashnode.com/@abhishekcrj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" title = "@abhishek27crj" height="30" width="40" /></a>
-<a href = "https://leetcode.com/abhishekiter21/" target = "blank"><img align = "center" src = "https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt = "leetcode" title = "abhishekiter21" height = "30" width = "40" /> </a>
+<a href = "https://leetcode.com/abhishekiter21/" target = "blank"><img align = "center" src = "https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt = "leetcode" title = "warlock9" height = "30" width = "40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
