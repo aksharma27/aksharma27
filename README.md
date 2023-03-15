@@ -11,31 +11,31 @@
 
 <p align="left"> <a href="https://twitter.com/warlock_9" target="blank"><img src="https://img.shields.io/twitter/follow/aksharma27mjm?logo=twitter&style=for-the-badge" alt="aksharma27mjm" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack, ReactNative**
+- 🔭 I’m currently working on **MERN stack, REST APIs**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **DP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aksharma27](https://github.com/warlock45)
+- 👨‍💻 All of my projects are available at [https://github.com/aksharma27](https://github.com/aksharma27)
 
 - 📝 I regularly write articles on [https://twitter.com/aksharma27mjm](https://twitter.com/war_lock9)
 
 - 💬 Ask me about **WEB3, React, algorithms**
 
-- 📫 How to reach me **[Twitter](https://twitter.com/war_lock9), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/abhishekiter21/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
+- 📫 How to reach me **[Twitter](https://twitter.com/war_lock9), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/warlock9/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
 
 - ⚡ Fun fact **I am lazy, so I write RESTful apis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aksharma27mjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" title = "aksharma27mjm" height="30" width="40" /></a>
+<a href="https://twitter.com/war_lock9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" title = "aksharma27mjm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" title = "Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/me_aksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title = "me_aksharma" height="30" width="40" /></a>
 <a href="https://hashnode.com/@abhishekcrj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" title = "@abhishek27crj" height="30" width="40" /></a>
-<a href = "https://leetcode.com/abhishekiter21/" target = "blank"><img align = "center" src = "https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt = "leetcode" title = "warlock9" height = "30" width = "40" /> </a>
+<a href = "https://leetcode.com/warlock9/" target = "blank"><img align = "center" src = "https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" alt = "leetcode" title = "warlock9" height = "30" width = "40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
