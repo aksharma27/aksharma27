@@ -5,8 +5,7 @@
 
 <!-- //QUINE STATS EMBED CODES :   -->
 [![aksharma27's GitHub | Stats](https://stats.quine.sh/aksharma27/github?theme=dark)](https://quine.sh) 
-[![aksharma27's GitHub | Languages Over Time](https://stats.quine.sh/aksharma27/languages-over-time?theme=dark)](https://quine.sh) 
-[![aksharma27's GitHub | Topics Over Time](https://stats.quine.sh/aksharma27/topics-over-time?theme=dark)](https://quine.sh)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="aksharma27" /> </p>
 
@@ -55,6 +54,10 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharma27&show_icons=true&locale=en" alt="aksharma27" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksharma27&theme=dark" alt="aksharma27" /></p>
+
+<!-- QUINE STATS -->
+[![aksharma27's GitHub | Languages Over Time](https://stats.quine.sh/aksharma27/languages-over-time?theme=dark)](https://quine.sh) 
+[![aksharma27's GitHub | Topics Over Time](https://stats.quine.sh/aksharma27/topics-over-time?theme=dark)](https://quine.sh)
 
 
 ### My Contributions
