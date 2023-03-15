@@ -3,13 +3,16 @@
 
 <h3 align="center">A passionate programmer</h3>
 
-<a href="https://quine.sh/profile/aksharma27"><img src="https://stats.quine.sh/aksharma27/warlock45" alt="aksharma27's GitHub stats" width="840px"></a>
+<!-- //QUINE STATS EMBED CODES :   -->
+[![aksharma27's GitHub | Stats](https://stats.quine.sh/aksharma27/github?theme=dark)](https://quine.sh) 
+[![aksharma27's GitHub | Languages Over Time](https://stats.quine.sh/aksharma27/languages-over-time?theme=dark)](https://quine.sh) 
+[![aksharma27's GitHub | Topics Over Time](https://stats.quine.sh/aksharma27/topics-over-time?theme=dark)](https://quine.sh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="aksharma27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharma27" alt="warlock45" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/warlock_9" target="blank"><img src="https://img.shields.io/twitter/follow/aksharma27mjm?logo=twitter&style=for-the-badge" alt="aksharma27mjm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/war_lock9" target="blank"><img src="https://img.shields.io/twitter/follow/war_lock9?logo=twitter&style=for-the-badge" alt="war_lock9" /></a> </p>
 
 - 🔭 I’m currently working on **MERN stack, REST APIs**
 
