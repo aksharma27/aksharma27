@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **WEB3, React, algorithms**
 
-- 📫 How to reach me **[Twitter](https://twitter.com/war_lock9), [Linkedin](https://www.linkedin.com/in/abhishek-kumar-sharma-303a88220/), [Leetcode](https://leetcode.com/warlock9/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
+- 📫 How to reach me **[Twitter]([https://twitter.com/war_lock9](https://x.com/abhishekcrj)), [Linkedin](http://linkedin.com/in/abhi27crj), [Leetcode](https://leetcode.com/u/abhishek27crj/), [Hashnode](https://hashnode.com/@abhishekcrj27)**
 
 - ⚡ Fun fact **I am lazy, so I write RESTful apis**
 
